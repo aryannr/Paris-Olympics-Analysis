@@ -4,4 +4,5 @@ This project presents a comprehensive Power BI dashboard that analyzes data from
 
 Here is an overview of how the project functions : 
 
-(https://raw.githubusercontent.com/aryannr/Paris-Olympics-Analysis/main/assets/Paris Olympics Dashboard Video.mp4)
+(https://raw.githubusercontent.com/aryannr/Paris-Olympics-Analysis/main/assets/video.mp4)
+
