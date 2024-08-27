@@ -4,5 +4,8 @@ This project presents a comprehensive Power BI dashboard that analyzes data from
 
 Here is an overview of how the project functions : 
 
-[![Alt Text]]((https://drive.google.com/file/d/1IOw4PwtJnwp8IvBfAA__GCdYX-9ykIxH/view?usp=sharing) "video")
+
+https://github.com/user-attachments/assets/08836512-ef62-4d8e-8387-29f461399ccd
+
+
 
